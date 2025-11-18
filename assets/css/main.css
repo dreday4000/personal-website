@@ -986,7 +986,8 @@ input, select, textarea {
 
 		/* Optional portrait crop (e.g., movie poster style) */
 		.image.crop-poster {
-			aspect-ratio: 2 / 3;
+			/* aspect-ratio: 2 / 3; */
+			height: 1125px;
 			overflow: hidden;
 		}
 
