@@ -2284,7 +2284,8 @@ input, select, textarea {
 /* Three */
 
 	#three {
-		background: url("images/overlay.png"), url("../../images/three.jpg");
+		/* background: url("images/overlay.png"), url("../../images/three.jpg"); */
+		background: url("images/overlay.png"), url("../../images/four.jpg");
 		/* background-size: 256px 256px, cover; */
 		background-size: 256px 256px, contain;
 		background-attachment: fixed, fixed;
