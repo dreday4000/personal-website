@@ -2180,7 +2180,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		-moz-justify-content: center;
+		-moz-justify-content: space-between;
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
